@@ -1,4 +1,4 @@
-# glaze-hpp-analyzer12932
+# Glaze HPP Analyzer
 Introduction:
 Glaze adalah adalah alat analyst yang dirancang untuk membantu UMKM dalam menghitung HPP menggunakan metode Full Costing.
 
